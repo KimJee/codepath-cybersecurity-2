@@ -32,7 +32,7 @@ Description:
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR
 
 Description:
 
