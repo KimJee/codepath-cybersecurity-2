@@ -25,10 +25,11 @@ Description: Noticed that if we put the "'" character within the url, the server
 
 ## Green
 
-Description:
+Vulnerability #1: XSS
+
+Description: When filling out the contact form, one can use XSS and run unauthorized code when logging in.
 
 <img src="green-vuln1.gif">
-
 
 ## Red
 
