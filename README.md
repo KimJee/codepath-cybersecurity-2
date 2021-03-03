@@ -19,7 +19,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 Vulnerability #1: SQL Injection
 
-Description: Noticed that if we put the "'" character within the url, the serve responds in a failed query. Thus this must be the SQL injection.
+Description: Noticed that if we put the "'" character within the url, the server responds in a failed query. Thus this must be the SQL injection.
 
 <img src="blue-vuln1.gif">
 
