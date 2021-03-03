@@ -17,7 +17,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: Username Enumeration
+Vulnerability #1: IDOR
 
 Description:
 
