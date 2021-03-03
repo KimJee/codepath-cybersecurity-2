@@ -23,25 +23,9 @@ Description:
 
 <img src="blue-vuln1.gif">
 
-Vulnerability #2: __________________
-
-Description:
-
-<img src="blue-vuln2.gif">
-
-## Green
-
-Vulnerability #1: __________________
-
 Description:
 
 <img src="green-vuln1.gif">
-
-Vulnerability #2: __________________
-
-Description:
-
-<img src="green-vuln2.gif">
 
 
 ## Red
@@ -58,12 +42,6 @@ But these two weren't in the list, but can be accessed.
 * ID 10 -> Testy McTesterson 
 * ID 11 -> Lazy Lazyman
 	
-Vulnerability #2: __________________
-
-Description:
-
-<img src="red-vuln2.gif">
-
 
 ## Notes
 
