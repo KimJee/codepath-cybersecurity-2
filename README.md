@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -37,15 +37,17 @@ Vulnerability #1: IDOR
 
 Description:
 
-<img src="red-vuln1.gif">
-
 IDs 1-9 can be access through the query params... and are listed in the website.
 But these two weren't in the list, but can be accessed.
 
 * ID 10 -> Testy McTesterson 
 * ID 11 -> Lazy Lazyman
-	
+
+<img src="red-vuln1.gif">
+
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+Describe any challenges encountered while doing the work.
+
+I thought this was really hard. But maybe I'm not that great at exploiting websites!
