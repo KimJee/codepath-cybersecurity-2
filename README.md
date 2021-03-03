@@ -21,7 +21,7 @@ Vulnerability #1: IDOR
 
 Description:
 
-<img src="enumeration-attack.gif">
+<img src="blue-vuln1.gif">
 
 Vulnerability #2: __________________
 
@@ -52,6 +52,23 @@ Description:
 
 <img src="red-vuln1.gif">
 
+All of these IDs can be access through the query params...
+
+* ID 1 -> Daron Burke
+* ID 2 -> Sherry Trevino
+* ID 3 -> Irene Boliing
+* ID 4 -> Robert Hamilton
+* ID 5 -> Ken Barker
+* ID 6 -> Elizabeth Olson
+* ID 7 -> Samuel Hunter
+* ID 8 -> Kim Stanley
+* ID 9 -> Barbara Hinckley
+
+But these two weren't in the list, but can be accessed.
+
+* ID 10 -> Testy McTesterson 
+* ID 11 -> Lazy Lazyman
+	
 Vulnerability #2: __________________
 
 Description:
